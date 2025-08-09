@@ -31,7 +31,7 @@
 > Working with Obsidian has been a great experience. Their audit was incredibly thorough, highly professional, and showed deep attention to details. The quality of their security review stood out — two independent follow-up audits found only a small number of additional issues, highlighting Obsidian’s strong coverage and expertise. We’re excited to keep working with Juan and Spearmint for our future security reviews and make them one of our go-to security partner.
 > - [Pierre-Yves Gendron](https://x.com/PYGendron), [Tenor Finance](https://x.com/TenorFinance)
 
-## Researchers
+## Founding Security Researchers
 
 Our individual audit portfolios can be found here:
 
