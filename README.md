@@ -35,7 +35,7 @@
 
 Our individual audit portfolios can be found here:
 
-- Juan: https://github.com/0xjuaan
+- Juan: https://github.com/0xjuaan/audits
 - Spearmint: https://github.com/0xSpearmint
 
 ## Highlights
