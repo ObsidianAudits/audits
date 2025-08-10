@@ -9,7 +9,8 @@
 |06/2025| [Agora](https://x.com/withAUSD) | Stablecoin infrastructure on Solana | Interest-bearing wrapped stablecoins | Private 
 |07/2025| [LiquidLoot](https://x.com/LootLiquid) | NFT Marketplace and borrowing platform on HyperEVM | NFT-collateralised borrowing and lending | [Report](https://github.com/ObsidianAudits/audits/blob/main/2025-07-LiquidLoot-Lending-Obsidian-Audit.pdf)
 |07/2025| [Oku Trade](https://x.com/okutrade) | Advanced trading platform on EVM chains | Custom order types: limit, stop-limit, and bracket orders | [Report](https://github.com/ObsidianAudits/audits/blob/main/2025-07-Oku-Obsidian-Audit.pdf)
-|08/2025| [Bae Of HL]() | NFT Lending Platform | Gondi V3 Fork | [Report](https://github.com/ObsidianAudits/audits/blob/main/2025-07-bae-nft-lending.pdf)
+|07/2025|[Size Credit](https://x.com/SizeCredit) | Fixed-rate lending platform | Meta-vault and strategies | [Report](https://github.com/ObsidianAudits/audits/blob/main/2025-07-size-credit.pdf)
+|08/2025| [Bae Of HL](https://x.com/BaeOfHL) | NFT Lending Platform | Gondi V3 Fork | [Report](https://github.com/ObsidianAudits/audits/blob/main/2025-07-bae-nft-lending.pdf)
 
 
 ### Team Audit Competitions
