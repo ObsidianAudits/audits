@@ -4,11 +4,12 @@
 |----------------|----------------|------------------------------------------------|----------|----------|
 |02/2025| [Tenor Finance](https://x.com/TenorFinance) |Order book styled, fixed rate lending platform|Pool Manager (Uniswap v4 hook) | Private |
 |05/2025| [Tenor Finance](https://x.com/TenorFinance) |Order book styled, fixed rate lending platform|Market Manager| Private |
-|05/2025| [Hyperdrive](https://x.com/Hyperdrivedefi) |Lending Markets on HyperEVM |Isolated lending market contracts| [Link](https://github.com/ObsidianAudits/audits/blob/main/2025-05-hyperdrive-markets.pdf) |
-|05/2025| [Pump Science](https://x.com/pumpdotscience) | Token launchpad on Solana | Meteora DAMM v2 integration | [Link](https://github.com/ObsidianAudits/audits/blob/main/2025-05-pump-science.pdf)
+|05/2025| [Hyperdrive](https://x.com/Hyperdrivedefi) |Lending Markets on HyperEVM |Isolated lending market contracts| [Report](https://github.com/ObsidianAudits/audits/blob/main/2025-05-hyperdrive-markets.pdf) |
+|05/2025| [Pump Science](https://x.com/pumpdotscience) | Token launchpad on Solana | Meteora DAMM v2 integration | [Report](https://github.com/ObsidianAudits/audits/blob/main/2025-05-pump-science.pdf)
 |06/2025| [Agora](https://x.com/withAUSD) | Stablecoin infrastructure on Solana | Interest-bearing wrapped stablecoins | Private 
-|07/2025| [LiquidLoot](https://x.com/LootLiquid) | NFT Marketplace and borrowing platform on HyperEVM | NFT-collateralised borrowing and lending | [Link](https://github.com/ObsidianAudits/audits/blob/main/2025-07-LiquidLoot-Lending-Obsidian-Audit.pdf)
-|07/2025| [Oku Trade](https://x.com/okutrade) | Advanced trading platform on EVM chains | Custom order types: limit, stop-limit, and bracket orders | [Link](https://github.com/ObsidianAudits/audits/blob/main/2025-07-Oku-Obsidian-Audit.pdf)
+|07/2025| [LiquidLoot](https://x.com/LootLiquid) | NFT Marketplace and borrowing platform on HyperEVM | NFT-collateralised borrowing and lending | [Report](https://github.com/ObsidianAudits/audits/blob/main/2025-07-LiquidLoot-Lending-Obsidian-Audit.pdf)
+|07/2025| [Oku Trade](https://x.com/okutrade) | Advanced trading platform on EVM chains | Custom order types: limit, stop-limit, and bracket orders | [Report](https://github.com/ObsidianAudits/audits/blob/main/2025-07-Oku-Obsidian-Audit.pdf)
+|08/2025| [Bae Of HL]() | NFT Lending Platform | Gondi V3 Fork | [Report](https://github.com/ObsidianAudits/audits/blob/main/2025-07-bae-nft-lending.pdf)
 
 
 ### Team Audit Competitions
