@@ -11,6 +11,7 @@
 |07/2025| [Oku Trade](https://x.com/okutrade) | Advanced trading platform on EVM chains | Custom order types: limit, stop-limit, and bracket orders | [Report](https://github.com/ObsidianAudits/audits/blob/main/2025-07-Oku-Obsidian-Audit.pdf)
 |07/2025|[Size Credit](https://x.com/SizeCredit) | Fixed-rate lending platform | Meta-vault and strategies | [Report](https://github.com/ObsidianAudits/audits/blob/main/2025-07-size-credit.pdf)
 |08/2025| [BAE Protocol](https://x.com/BAE_Protocol) | NFT Lending Platform | Gondi V3 Fork | [Report](https://github.com/ObsidianAudits/audits/blob/main/2025-07-bae-nft-lending.pdf)
+|10/2025| [Panoptic v2](https://x.com/Panoptic_xyz) | Decentralized Options protocol | v2 upgrade | Report pending
 
 
 ### Team Audit Competitions
