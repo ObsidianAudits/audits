@@ -20,6 +20,7 @@
 | [Yearn Finance](https://audits.sherlock.xyz/contests/977) | Sherlock  | Liquity v2 stability pool integration | **#1**/355 🥇 | [2H](https://audits.sherlock.xyz/contests/977)
 | [Pump.fun](https://cantina.xyz/competitions/19c5a5a6-f68d-4da8-b185-3f28c7f97bc1/leaderboard) | Cantina  | Constant product AMM on Solana | **#1**/435 🥇 | [1M](https://cantina.xyz/competitions/19c5a5a6-f68d-4da8-b185-3f28c7f97bc1/leaderboard) |
 | [Wormhole](https://audits.sherlock.xyz/contests/845) | Sherlock  | Token Vesting, Governance (on Solana) | **#1**/10 🥇 | [1M](https://github.com/wormhole-foundation/multigov/blob/main/audits/2025-03-sherlock-solana-multi-gov.pdf) |
+| [3Jane](https://audits.sherlock.xyz/contests/1184) | Sherlock  | Uncollateralized lending, Morpho Blue fork | **#1**/38 🥇 | 6M |
 | [DeBank](https://audits.sherlock.xyz/contests/1044/leaderboard) | Sherlock | EVM DEX Aggregator | **#1**/131 🥇| [-](https://audits.sherlock.xyz/contests/1044)
 | [ZeroLend One](https://audits.sherlock.xyz/contests/466/leaderboard) | Sherlock | 	Aave V3 Fork | **#2**/277 🥈 | [10H, 7M](https://github.com/sherlock-audit/2024-06-new-scope-judging/issues?q=is%3Aissue+Obsidian+label%3AReward+) |
 | [Sentiment v2](https://audits.sherlock.xyz/contests/349?filter=results) | Sherlock | Isolated Lending | **#3**/357 🥉 | [1H, 7M](https://github.com/sherlock-audit/2024-08-sentiment-v2-judging/issues?q=is%3Aissue+Obsidian+label%3Areward+sort%3Acreated-asc) |
