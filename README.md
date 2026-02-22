@@ -12,6 +12,8 @@
 |07/2025|[Size Credit](https://x.com/SizeCredit) | Fixed-rate lending platform | Meta-vault and strategies | [Report](https://github.com/ObsidianAudits/audits/blob/main/2025-07-size-credit.pdf)
 |08/2025| [BAE Protocol](https://x.com/BAE_Protocol) | NFT Lending Platform | Gondi V3 Fork | [Report](https://github.com/ObsidianAudits/audits/blob/main/2025-07-bae-nft-lending.pdf)
 |10/2025| [Panoptic v2](https://x.com/Panoptic_xyz) | Decentralized Options protocol | v2 upgrade | [Report](https://github.com/ObsidianAudits/audits/blob/main/2025-10-panoptic-v2.pdf)
+|10/2025| [Bounce Tech](https://x.com/Panoptic_xyz) |  Leveraged token protocol built on HyperEVM | Leveraged token contracts | [Report](https://github.com/ObsidianAudits/audits/blob/main/bounce-tech/2025-10-bounce-obsidian-audit.pdf)
+|01/2026| [Bounce Tech](https://x.com/BounceTech) |  Leveraged token protocol built on HyperEVM | Update to support HyperEVM's native USDC | [Report](https://github.com/ObsidianAudits/audits/blob/main/bounce-tech/2026-01-bounce-update-audit.pdf)
 
 
 ### Team Audit Competitions
