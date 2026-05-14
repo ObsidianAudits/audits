@@ -17,6 +17,7 @@
 |02/2026| [Valantis](https://x.com/ValantisLabs) | Smart account | Modular Smart contract account, abstraction layer for HyperEVM and HyperCore | [Report](https://github.com/ObsidianAudits/audits/blob/main/2026-02-valantis.pdf)
 |03/2026| [Chamber (formerly dHedge)](https://x.com/chamberfi) | Decentralized tokenized vault protocol | Hyperliquid integration contracts to support trading on HyperCore | [Report](https://github.com/ObsidianAudits/audits/blob/main/2026-03-dhedge.pdf)
 |03/2026| [Valantis](https://x.com/ValantisLabs) | Smart account and LST | Staking module enabling Prime Account holders to earn Hyperliquid staking-tier trading fee discounts via stHYPE-backed HYPE | [Report](https://github.com/ObsidianAudits/audits/blob/main/2026-03-valantis.pdf)
+|03/2026| [Bounce Tech](https://x.com/BounceTech) | Leveraged token protocol on HyperEVM | Update to LeveragedToken contract to support unified account mode | [Report](https://github.com/ObsidianAudits/audits/blob/main/bounce-tech/2026-03-bounce-tech.pdf)
 |04/2026| [Bounce Tech](https://x.com/BounceTech) | Leveraged token protocol on HyperEVM | Update to support leveraged tokens for HIP-3 perps | [Report](https://github.com/ObsidianAudits/audits/blob/main/bounce-tech/2026-04-bounce-tech.pdf)
 
 ### Team Audit Competitions
